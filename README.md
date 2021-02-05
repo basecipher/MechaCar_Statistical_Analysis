@@ -12,9 +12,9 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 ![Lot Summary](https://github.com/basecipher/MechaCar_Statistical_Analysis/blob/main/Images/Summary%20-%20lot.PNG)
 
 * Deliverable 3: T-Test on Suspension Coils
-[Lot 1](https://github.com/basecipher/MechaCar_Statistical_Analysis/blob/main/Images/t_test%20-%20lot%201.PNG)
-[Lot 2](https://github.com/basecipher/MechaCar_Statistical_Analysis/blob/main/Images/t_test%20-%20lot%202.PNG)
-[Lot 3](https://github.com/basecipher/MechaCar_Statistical_Analysis/blob/main/Images/t_test%20-%20lot%203.PNG)
+![Lot 1](https://github.com/basecipher/MechaCar_Statistical_Analysis/blob/main/Images/t_test%20-%20lot%201.PNG)
+![Lot 2](https://github.com/basecipher/MechaCar_Statistical_Analysis/blob/main/Images/t_test%20-%20lot%202.PNG)
+![Lot 3](https://github.com/basecipher/MechaCar_Statistical_Analysis/blob/main/Images/t_test%20-%20lot%203.PNG)
 
 ## Results
 Observing the P value for the various manufacturing lots together are all greater than 0.05 and is not significant so metric known as the null hypothesis can be accepted.  Likewise, the null hypothesis for lot 3 and lot 1 can, in addition, be accepted as the P values are also greater that 0.05. Null hypothesis for lot 2 can can be inferenced to be rejected as the P value is less than 0.05.
